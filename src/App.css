@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.nav {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.form {
+  width: 80%;
+  margin: 40px;
+}
+.img {
+  width: 50%;
+  height: 500px;
+}
